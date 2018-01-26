@@ -46,6 +46,7 @@ You'll need to these steps if you haven't already:
 
 - [Git it](https://github.com/jlord/git-it)
 - [Codebar's git & github tutorial](http://tutorials.codebar.io/version-control/command-line/tutorial.html)
+- [Learn git branching](https://learngitbranching.js.org/)
 
 ## Cheatsheets
 
@@ -64,3 +65,26 @@ You'll need to these steps if you haven't already:
 ![Actor who plays kenan in kenan and kel saying "that's it"](https://thumbs.gfycat.com/IdealEuphoricBlacklab-max-1mb.gif)
 
 I'm half joking but if you can do all of that and know how to delete a folder on your computer you can get a long way!
+
+## Okay I guess this stuff is essential too, especially if you hope to work on a project with more than one person
+
+- Make a branch
+- Delete a branch
+- Change branch
+- Merge branches
+- Reset 
+- Clean
+- `git log`
+
+![Tyra Banks types at an old computer](https://media1.tenor.com/images/3d762c2bf06a70eea8c01bce19aee345/tenor.gif?itemid=5322344)
+
+## And some spicy stuff for you advanced students
+
+- Rebase
+- Cherrypick
+- Revert
+- git hooks
+
+Congratulations! You now know more about git that you did before.
+
+![Man in a long coat mashes buttons on various store model laptops. Improbably locations like banks pop up as "all hacked"](https://i.imgur.com/iVHfwLc.gif)
