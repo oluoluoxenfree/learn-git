@@ -39,9 +39,10 @@ You'll need to these steps if you haven't already:
 
 1. [Set up a github account](https://github.com/join) (If you want! No obligation)
 2. [Set up git on your computer](https://help.github.com/articles/set-up-git/) (Okay you do actually have to do this one)
-3. ~Profit~ Get started.
+3. Get a code editor (I recommend Atom or VSCode)
+4. ~Profit~ Get started.
 
-##Tutorials (Oops, what's happened to the markdown here? Let's fix it!)
+##Tutorials (Oops, what's happened to this heading? Let's fix it! You might need to look up github flavoured markdown. Fork this repository, make your change locally, add, commit and push your changes back to your fork. You can do it!)
 
 - [Git it](https://github.com/jlord/git-it)
 - [Codebar's git & github tutorial](http://tutorials.codebar.io/version-control/command-line/tutorial.html)
@@ -51,3 +52,15 @@ You'll need to these steps if you haven't already:
 - [Oh Sh*t, git!](http://ohshitgit.com/)
 - [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
 - [I broke git](http://ibrokegit.com/)
+
+## Essential git skills
+
+- Clone
+- Pull
+- Add
+- Commit 
+- Push 
+
+![Actor who plays kenan in kenan and kel saying "that's it"](https://thumbs.gfycat.com/IdealEuphoricBlacklab-max-1mb.gif)
+
+I'm half joking but if you can do all of that and know how to delete a folder on your computer you can get a long way!
