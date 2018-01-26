@@ -20,7 +20,7 @@ This isn't a command line workshop as you may have guessed, but I'll link you to
 
 The only completely essential terminal commands you need for this workshop are:
 
-- `cd` this changes you directory (_cd_ get it?!). A 'directory' is a folder on your computer if you're looking at it graphically. 
+- `cd` this changes your directory (_cd_ get it?!). A 'directory' is a folder on your computer if you're looking at it graphically. e.g. `cd Documents` would take you into your Documents folder.
 
 - `cd ..` lets you go to the directory _above_ the one you're in aka the folder containing the one you're in.
 
