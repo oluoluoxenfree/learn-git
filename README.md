@@ -2,6 +2,8 @@
 
 I hope you're having a wonderful time at Afrotech Fest!
 
+If you're on twitter I am [@oluoluoxenfree](https://twitter.com/oluoluoxenfree) and please use #gitit or #gititrealgood to amuse me if you tweet about this. 
+
 All genders are welcome to the information within but I couldn't resist...
 
 ![Beyonce is in a suit at an information desk with the slogan 'okay ladies now let's get information'](https://pbs.twimg.com/media/CmmmOj8UEAA5iY5.jpg)
