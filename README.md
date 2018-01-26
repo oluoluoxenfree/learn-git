@@ -4,7 +4,7 @@ I hope you're having a wonderful time at Afrotech Fest!
 
 All genders are welcome to the information within but I couldn't resist...
 
-[Beyonce is in a suit at an information desk with the slogan 'okay ladies now let's get information'](https://pbs.twimg.com/media/CmmmOj8UEAA5iY5.jpg)
+![Beyonce is in a suit at an information desk with the slogan 'okay ladies now let's get information'](https://pbs.twimg.com/media/CmmmOj8UEAA5iY5.jpg)
 
 Whether you know a little or a lot about git and Github I hope you'll find something interesting here.
 
