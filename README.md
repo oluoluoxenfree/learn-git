@@ -41,11 +41,11 @@ You'll need to these steps if you haven't already:
 
 ##Tutorials (Oops, what's happened to the markdown here? Let's fix it!)
 
-[Git it](https://github.com/jlord/git-it)
-[Codebar's git & github tutorial](http://tutorials.codebar.io/version-control/command-line/tutorial.html)
+- [Git it](https://github.com/jlord/git-it)
+- [Codebar's git & github tutorial](http://tutorials.codebar.io/version-control/command-line/tutorial.html)
 
 ## Cheatsheets
 
-[Oh Sh*t, git!](http://ohshitgit.com/)
-[Git, the simple guide](http://rogerdudler.github.io/git-guide/)
-[I broke git](http://ibrokegit.com/)
+- [Oh Sh*t, git!](http://ohshitgit.com/)
+- [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
+- [I broke git](http://ibrokegit.com/)
