@@ -1,4 +1,4 @@
-# learn-git
+﻿# learn-git
 
 I hope you're having a wonderful time at Afrotech Fest!
 
@@ -42,7 +42,7 @@ You'll need to these steps if you haven't already:
 3. Get a code editor (I recommend Atom or VSCode)
 4. ~Profit~ Get started.
 
-##Tutorials (Oops, what's happened to this heading? Let's fix it! You might need to look up github flavoured markdown. Fork this repository, make your change locally, add, commit and push your changes back to your fork. You can do it!)
+## Tutorials (Oops, what's happened to this heading? Let's fix it! You might need to look up github flavoured markdown. Fork this repository, make your change locally, add, commit and push your changes back to your fork. You can do it!)
 
 - [Git it](https://github.com/jlord/git-it)
 - [Codebar's git & github tutorial](http://tutorials.codebar.io/version-control/command-line/tutorial.html)
