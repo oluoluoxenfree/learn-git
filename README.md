@@ -85,6 +85,6 @@ I'm half joking but if you can do all of that and know how to delete a folder on
 - Revert
 - git hooks
 
-Congratulations! You now know more about git that you did before.
+Congratulations! You now know more about git than you did before.
 
 ![Man in a long coat mashes buttons on various store model laptops. Improbably locations like banks pop up as "all hacked"](https://i.imgur.com/iVHfwLc.gif)
