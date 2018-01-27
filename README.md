@@ -2,6 +2,8 @@
 
 I hope you're having a wonderful time at Afrotech Fest!
 
+We're going to do a merge :)
+
 If you're on twitter I am [@oluoluoxenfree](https://twitter.com/oluoluoxenfree) and please use #gitit or #gititrealgood to amuse me if you tweet about this. 
 
 All genders are welcome to the information within but I couldn't resist...
