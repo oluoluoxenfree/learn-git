@@ -8,7 +8,7 @@ If you're on twitter I am [@oluoluoxenfree](https://twitter.com/oluoluoxenfree) 
 
 All genders are welcome to the information within but I couldn't resist...
 
-![Beyonce is in a suit at an information desk with the slogan 'okay ladies now let's get information'](https://pbs.twimg.com/media/CmmmOj8UEAA5iY5.jpg)
+![Beyonce is in a suit at an information desk with the slogan 'okay ladies now let's get information'](https://pbs.twimg.com/media/CkA8DQZXIAAjl30.jpg)
 
 Whether you know a little or a lot about git and Github I hope you'll find something interesting here.
 
